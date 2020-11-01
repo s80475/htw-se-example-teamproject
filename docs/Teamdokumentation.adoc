@@ -1,4 +1,4 @@
-= Teamdokumentation
+= Teamdokumentationen
 Sahil Panicker <s80531@htw-dresden.de>
 Lukas Möbius <s80375@htw-dresden.de>
 0.1, 01.09.2019
