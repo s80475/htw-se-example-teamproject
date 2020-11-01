@@ -1,10 +1,6 @@
 = Teamdokumentation
-<<<<<<< HEAD
 Sahil Panicker <s80531@htw-dresden.de>
 Lukas Möbius <s80375@htw-dresden.de>
-=======
-Lukas Möbius <lukas.moebius@htw-dresden.de>
->>>>>>> edf708d46a65f70d60435f25a104627e6b0439d9
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -13,7 +9,6 @@ Lukas Möbius <lukas.moebius@htw-dresden.de>
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git.
 
-<<<<<<< HEAD
 |=== 
 
 | Lukas Möbius | Projekt Leader 1 
@@ -21,9 +16,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 | Sahil Panicker | Projekt Leader 2
 
 |=== 
-=======
 
 include::Teammitglieder.adoc[]
 
 include::Software.adoc[]
->>>>>>> edf708d46a65f70d60435f25a104627e6b0439d9
