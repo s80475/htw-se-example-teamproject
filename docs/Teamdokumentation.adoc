@@ -1,5 +1,5 @@
 = Teamdokumentation
-Vorname Nachname <email>
+Lukas Möbius <lukas.moebius@htw-dresden.de>
 0.1, 01.09.2019
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -8,4 +8,7 @@ Vorname Nachname <email>
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git.
 
-== Teammitglieder
+
+include::Teammitglieder.adoc[]
+
+include::Software.adoc[]
